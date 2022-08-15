@@ -2,23 +2,19 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package zoom3a;
-
-import controller.ControllerPersona;
+package zoo;
 
 /**
  *
- * @author ALEJO
+ * @author Bryan
  */
-public class ZooM3A {
+public class ZOO {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-
-        ControllerPersona cp = new ControllerPersona();
-
+        // TODO code application logic here
     }
-
+    
 }
